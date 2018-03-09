@@ -45,7 +45,7 @@ table(blog_posts$post_status)
 ############################################################
 ### Filter post_type == post und post_status == publish
 ### ---
-### Identify Languag of Post via matches with stopdword list
+### Identify Language of Post via matches with stopword lists
 ### ---
 ### Stemming is optional
 ### ---
